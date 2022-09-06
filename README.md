@@ -16,4 +16,4 @@ HTML, CSS, JS
 
 ### Langueges:
 Russian
-English (B1+)
+English **(B1+)**
