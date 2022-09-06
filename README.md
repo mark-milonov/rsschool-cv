@@ -12,7 +12,7 @@ I want to be a frontend developer!
 HTML, CSS, JS
 
 ### Code example:
-let className = document.querySelector('.class-name')
+```let className = document.querySelector('.class-name')```
 
 ### Langueges:
 Russian
